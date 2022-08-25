@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Luvancar", "Luvancar", "{36
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "..\Model\Model.csproj", "{7F08185E-247D-4956-A0EA-51BA18FF0CFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{E477660A-511D-4C07-8702-C6A84DFCAF90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{7F08185E-247D-4956-A0EA-51BA18FF0CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F08185E-247D-4956-A0EA-51BA18FF0CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F08185E-247D-4956-A0EA-51BA18FF0CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E477660A-511D-4C07-8702-C6A84DFCAF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E477660A-511D-4C07-8702-C6A84DFCAF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E477660A-511D-4C07-8702-C6A84DFCAF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E477660A-511D-4C07-8702-C6A84DFCAF90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{5D359DA2-F002-4658-9E4D-3A957719CE7E} = {3647D4E5-1CBA-4CC8-806D-150A1F58DE8C}
 		{7F08185E-247D-4956-A0EA-51BA18FF0CFF} = {3647D4E5-1CBA-4CC8-806D-150A1F58DE8C}
+		{E477660A-511D-4C07-8702-C6A84DFCAF90} = {3647D4E5-1CBA-4CC8-806D-150A1F58DE8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2D137B2-5125-44AD-9AF1-E2E637F609F2}
